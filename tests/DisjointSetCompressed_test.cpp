@@ -1,7 +1,8 @@
+#include "disjoint_set/DisjointSetCompressed.h"
+
 #include <vector>  // std::vector
 
 #include "gtest/gtest.h"
-#include "disjoint_set/DisjointSetCompressed.h"
 
 using namespace disjoint_set;
 
