@@ -1,6 +1,7 @@
 ﻿# Disjoint Set
 
-[![Build Status](https://travis-ci.org/jkomyno/disjoint-set.svg?branch=master)](https://travis-ci.org/jkomyno/disjoint-set)
+[![Build Status Travis](https://travis-ci.org/jkomyno/disjoint-set.svg?branch=master)](https://travis-ci.org/jkomyno/disjoint-set)
+[![Build status AppVeyor](https://ci.appveyor.com/api/projects/status/f2eed8lgb5qexdrp?svg=true)](https://ci.appveyor.com/project/jkomyno/disjoint-set)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/19388989c62742ba8353c577cd92b39c)](https://www.codacy.com/manual/jkomyno/disjoint-set?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jkomyno/disjoint-set&amp;utm_campaign=Badge_Grade)
 
