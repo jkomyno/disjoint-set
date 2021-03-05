@@ -140,7 +140,7 @@ int main() {
 
 ## Test
 
-This project has been developer with Microsoft Visual Studio 2019, but it supports multiplatform builds via [`Bazel`](https://bazel.build/).
+This project has been developed with Microsoft Visual Studio 2019, but it supports multiplatform builds via [`Bazel`](https://bazel.build/).
 
 The [./tests](./tests) folder contains some unit tests. Coverage isn't 100% as of now, though these libraries have worked well in practice
 with more than 90k elements.
