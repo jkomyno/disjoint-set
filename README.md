@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/19388989c62742ba8353c577cd92b39c)](https://www.codacy.com/manual/jkomyno/disjoint-set?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jkomyno/disjoint-set&amp;utm_campaign=Badge_Grade)
 
+**Deprecation Notice**: please use the container class `DisjointSet` in [`jkomyno/jkds`](https://github.com/jkomyno/jkds).
+
 This package provides a header-only, generic and dependency-free C++17 implementation of [Disjoint Sets](https://en.wikipedia.org/wiki/Disjoint-set_data_structure).
 It exposes the namespace `disjoint_set`.
 
